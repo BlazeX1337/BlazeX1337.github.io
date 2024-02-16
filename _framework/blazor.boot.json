@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Todolist_v2",
   "resources": {
-    "hash": "sha256-JA9UJG4YaXr7TRpo7KTtyAhSM/5NUL9sI0EuH13ZAsg=",
+    "hash": "sha256-alMxRkesdFMxjsuv0HhtdNde6QHtTiLf8SKS2uV8UF0=",
     "jsModuleNative": {
       "dotnet.native.8.0.2.7wxyiivi3u.js": "sha256-Wkg6W71D+/DRADRU5KAqV8R10Efyc5SQ3pyCDdinrJo="
     },
@@ -108,7 +108,7 @@
       "System.Threading.wasm": "sha256-C+kNO+Kt9e3PK19e5UCmC8XLxdyXo66XzmvOQHy/IFE=",
       "System.wasm": "sha256-n7POuPtNGmUEzGtZKZtOEEpj+CuOoQ/qVWMgWhN7NXU=",
       "System.Web.HttpUtility.wasm": "sha256-dzP1GTGDqcxNC9DFAQtwJcNpqaTtjV1G42kgD0LbajQ=",
-      "Todolist_v2.wasm": "sha256-CJIb/Wrs5nCYV0dWnj9+zUAX/jB4prtEqCttyuPj5yY="
+      "Todolist_v2.wasm": "sha256-kh4n9Kn83/hEThlQotgY0qJCe9BTIn/PePMkcqXrfQk="
     }
   },
   "cacheBootResources": true,
